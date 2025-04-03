@@ -1,7 +1,7 @@
 # Discord settings:
 
-bot_token: MTM1MzQzODk1MzgxODI5MjMwNg.GtnAOo.vEmZrYW1ZVLoYfGxDShisK6duhnnr1Yq8PO7d8
-client_id: 1353438953818292306
+bot_token: YOU-BOT-TOKEN
+client_id: YOUR-BOT-CLIENT-ID
 status_message: Let's talk 
 
 allow_dms: true

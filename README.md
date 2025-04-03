@@ -54,3 +54,7 @@
 1. GO TO THE TERMINAL AND TYPE ```pip install -r requirement.txt```
 2. TO ONLINE YOUR BOT TYPE ```python chatcord.py``` AFTER THAT YOUR BOT WILL ONLINE.
 3. NOW YOU ARE GOOD TO GO 
+
+# SUPPORT
+
+### DISCORD - https://discord.gg/fHbgJgnwfb

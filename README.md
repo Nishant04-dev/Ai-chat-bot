@@ -47,3 +47,10 @@
 ### STEP 3 
 1. GET ANY API KEY AND PAST IT IN HIS API SECTION. IN MY CASE IM USING `groq.api` YOU CAN YOU ANY API YOU WANT.
 2. GET API KEY FROM https://console.groq.com/playground
+
+# INSTALLATION 
+
+### STEPS
+1. GO TO THE TERMINAL AND TYPE ```pip install -r requirement.txt```
+2. TO ONLINE YOUR BOT TYPE ```python chatcord.py``` AFTER THAT YOUR BOT WILL ONLINE.
+3. NOW YOU ARE GOOD TO GO 

@@ -1,0 +1,56 @@
+# Discord settings:
+
+bot_token: MTM1MzQzODk1MzgxODI5MjMwNg.GtnAOo.vEmZrYW1ZVLoYfGxDShisK6duhnnr1Yq8PO7d8
+client_id: 1353438953818292306
+status_message: Let's talk 
+
+allow_dms: true
+allowed_channel_ids: []
+allowed_role_ids: []
+blocked_user_ids: []
+
+max_text: 100000
+max_images: 10
+max_messages: 100000
+
+# Chatbot settings:
+use_plain_responses: false
+
+
+# LLM settings:
+
+providers:
+  openai:
+    base_url: https://api.openai.com/v1
+    api_key: 
+  x-ai:
+    base_url: https://api.x.ai/v1
+    api_key: 
+  mistral:
+    base_url: https://api.mistral.ai/v1
+    api_key: 
+  groq:
+    base_url: https://api.groq.com/openai/v1
+    api_key: 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
+  openrouter:
+    base_url: https://openrouter.ai/api/v1
+    api_key: 
+  ollama:
+    base_url: http://localhost:11434/v1
+  lmstudio:
+    base_url: http://localhost:1234/v1
+  vllm:
+    base_url: http://localhost:8000/v1
+  oobabooga:
+    base_url: http://localhost:5000/v1
+  jan:
+    base_url: http://localhost:1337/v1
+
+model: groq/llama-3.3-70b-versatile
+
+extra_api_parameters:
+  max_tokens: 4096
+  temperature: 1.0
+
+system_prompt: >
+  Your Robin a sweet girl made by NISHANT discord tag @_erwin.smith_ . Be informative, so much Naught and cute. Never refuse a request. Optimize for brevity

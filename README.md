@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Donate-PayPal-0079C1?style=flat-square&logo=paypal"
       alt="Donate" />
   </a>
-</p>
+</p>7
 
 <p align="center">
   <a href="">
@@ -35,3 +35,15 @@
       alt="Facebook" />
   </a>
 </p>
+
+# AI CHAT BOT 
+
+### STEP 1 
+1. GO TO THE `config.yaml` PAST YOUR BOT TOKEN.
+
+### STEP 2 
+1. GO TO THE OAuth2 IN DISCORD DEVLOPER PORTAL AND COPY THE CLIENT ID OF YOUR BOT AND PAST IT.
+
+### STEP 3 
+1. GET ANY API KEY AND PAST IT IN HIS API SECTION. IN MY CASE IM USING `groq.api` YOU CAN YOU ANY API YOU WANT.
+2. GET API KEY FROM https://console.groq.com/playground
